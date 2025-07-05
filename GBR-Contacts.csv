@@ -967,7 +967,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2340979,M7WJB,John Blackall,John,Blackpool,England,GBR
 2340980,MW5DQQ,Michal Poreba,Michal,Swansea,Wales,GBR
 2340981,MW7BUW,Paul Smalldon,Paul,Neath,Wales,GBR
-2340982,2E0BYV,Roger Byrne,Roger,Newcastle Upon Tyne,England,GBR
+2340982,M0KYC,Roger Byrne,Roger,Newcastle Upon Tyne,England,GBR
 2340983,G7NIB,Ian Clark,Ian,Oakengates Telford Shrosphire,England,GBR
 2340984,G0CIU,Steve,Steve,Sunderland,England,GBR
 2340985,M7WYN,Arwyn Williams,Arwyn,Swansea,Wales,GBR
@@ -1240,7 +1240,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2341287,G1JCC,Ian Jefferson,Ian,Luton,England,GBR
 2341288,G0TIY,John Gulliver,John,Birmingham,England,GBR
 2341289,2E0ECQ,John Odonnell,John,Watford,England,GBR
-2341290,2E0XVX,Mick Lawrence,Mick,Market Harborough,England,GBR
+2341290,2E0XVX,Mick Lawrence,Mick,Desborough,England,GBR
 2341291,M0NRD,Andrew Garratt,Andrew,Newark-On-Trent,England,GBR
 2341292,2E0DKO,Peter Taylor,Peter,Liverpool,England,GBR
 2341293,M0VAT,Alan Rodgers,Alan,Birmingham,England,GBR
@@ -1635,6 +1635,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2341688,G4WOD,John Sheppard,John,Bristol,England,GBR
 2341689,G4LQT,David Morton,David,Stafford,England,GBR
 2341690,G0WZB,Brian Burdis,Brian,Hebburn,England,GBR
+2341691,2E0GJE,Gary Groves,Gary,Ashurst,England,GBR
 2341692,2E0FTR,Derek Burton,Derek,Stoke On Trent,England,GBR
 2341693,M0XXK,Kam Mitchell,Kam,Canterbury,England,GBR
 2341694,G0AKC,Anthony Chamberlain,Anthony,Ipswich,England,GBR
@@ -1869,7 +1870,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2341924,M0CCA,Stephen Ramsden,Stephen,Plymouth,England,GBR
 2341925,2E0LTY,Gary Mcanulty,Gary,Manchester,England,GBR
 2341926,M6PHC,Paul Conduit,Paul,High Wycombe,England,GBR
-2341927,G0VXY,Gregory Forde,Gregory,London,England,GBR
+2341927,G0VXY,Gdf007 Gregg,Gdf007,London,England,GBR
 2341928,G6VGN,Ken Ratcliff,Ken,Notts,England,GBR
 2341929,M0MBS,Malcolm Hyman,Malcolm,Manchester,England,GBR
 2341930,2E0FOL,William Bartle,William,Highpeak,No_regio,GBR
@@ -2118,10 +2119,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2342177,M6JLM,James Mould,James,Houghton Regis,England,GBR
 2342178,2E0WBS,Adrian Whadcoat,Adrian,Hadleigh Suffolk,England,GBR
 2342179,2E0LAG,Alan Goddard,Alan,London,England,GBR
-2342180,2E0IOC,Adam Harrison,Adam,Redhill,England,GBR
+2342180,2E0IOC,Adam Harrison,Adam,Bristol,England,GBR
 2342181,M6GHR,John Greenfield,John,Nottingham,England,GBR
 2342182,G1ORG,David Stanley,David,Nuneaton,England,GBR
-2342183,M6IOC,Adam Harrison,Adam,Redhill,England,GBR
 2342184,G6DFD,Michael Pymm,Michael,Telford,Shropshire,GBR
 2342185,G4ZTQ,John Chappell,John,Chichester,England,GBR
 2342186,G1KZI,Nicholas Lansley,Nicholas,Peacehaven,England,GBR
@@ -2189,7 +2189,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2342248,G1YDQ,John Carpenter,John,Looe,England,GBR
 2342249,M6EPB,James Mould,James,Dunstable,England,GBR
 2342250,M0YYC,Richard Whyton,Richard,Wolverhampton,England,GBR
-2342251,G6TLH,Gerard Coleman,Gerard,Braunston,England,GBR
+2342251,G6TLH,Gerry,Gerry,Skipton,England,GBR
 2342252,G7WDT,David Shaw,David,Northampton,England,GBR
 2342253,G6NJE,John Smith,John,Preesal,England,GBR
 2342254,M6KJY,Kevin Younger,Kevin,Bury Stedmunds,England,GBR
@@ -2438,7 +2438,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2342501,M6HGR,Steven Yardley,Steven,Manchester,England,GBR
 2342502,G7CKX,Martin Steele,Martin,Stoke On Trent,England,GBR
 2342503,M3GFO,Nigel Fox,Nigel,Doncaster,England,GBR
-2342504,2E0XVX,Mick Lawrence,Mick,Market Harborough,England,GBR
+2342504,2E0XVX,Mick Lawrence,Mick,Desborough,England,GBR
 2342505,2E0DBS,David Baines,David,Norwich,England,GBR
 2342506,G0HPZ,Frank Derbyshire,Frank,Oldham,England,GBR
 2342507,G7DNT,Keith Handscombe,Keith,Ipswich,England,GBR
@@ -3929,7 +3929,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2344088,M6ZSV,Shaun Trevor,Shaun,Bearpark,England,GBR
 2344089,M6PZB,Paul Brown,Paul,S Yorkshire,England,GBR
 2344090,G3YLJ,Gill Whitehead,Gill,Bristol,England,GBR
-2344091,M0MIB,Vaughan,Vaughan,Nottingham,,GBR
+2344091,M0MIB,Vaughan,Vaughan,Nottingham,England,GBR
 2344092,M3KWS,Stephen Dunn,Stephen,Bideford,England,GBR
 2344093,G0SDI,Nicholas,Nicholas,E Yorkshire,East Yorkshire,GBR
 2344094,G0LCQ,Glenn Greed,Glenn,Exeter,England,GBR
@@ -4379,7 +4379,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2344543,M6BXG,James Grove,James,W Midlands,England,GBR
 2344544,M6WMQ,Welby,Welby,Uxbridge,England,GBR
 2344545,M6TJU,Tiju Idiculla,Tiju,Slough,England,GBR
-2344546,M6MXP,Donald,Donald,Rotherham,England,GBR
+2344546,M6MXP,Donbuz,Donbuz,Rotherham,England,GBR
 2344547,M3KQW,Howard Malpas,Howard,Crewe,England,GBR
 2344548,2E0RZR,Jonathan Williams,Jonathan,Cheshire,England,GBR
 2344549,M0YJW,Jason Williams,Jason,St Neots,England,GBR
@@ -6384,7 +6384,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2346588,M7SGF,Stan,Stan,Wisbech,No_regio,GBR
 2346589,M0XUA,Mark,Mark,South Shields,England,GBR
 2346590,M0KVB,Alan Taylor,Alan,Orpington,No_regio,GBR
-2346591,2E0NRL,Ethan,Ethan,Rochdale,No_regio,GBR
+2346591,2E0NRL,Ethan Tattersall,Ethan,Great Clifton,England,GBR
 2346592,2E0KAH,Kim Howe,Kim,Hartshorne,No_regio,GBR
 2346593,2E0PIU,Phil Lounton,Phil,Coxhoe,No_regio,GBR
 2346594,G4ISN,Andy Holmes,Andy,Harborough,No_regio,GBR
@@ -6686,7 +6686,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2346899,M1SKA,Dave Spencer,Dave,Portsmouth,England,GBR
 2346900,2E0BLF,Andrew Spaxman,Andrew,Park View,England,GBR
 2346901,G4WQZ,John Wiles,John,Denmead,England,GBR
-2346902,2E0XWM,Chris Bent Bent,Chris Bent,Ashbourne,England,GBR
+2346902,2E0XWM,Chris Bent,Chris,Ashbourne,England,GBR
 2346903,2E0WKS,Daniel Young-Lumsden,Daniel,Brent Knoll,England,GBR
 2346904,M3CPX,Nigel Thorne,Nigel,Churt,England,GBR
 2346905,M6NNU,Darren,Darren,no_city,England,GBR
@@ -7346,7 +7346,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347576,2E0WGT,Ben Withington,Ben,Hednesford Staffordshire,Staffs,GBR
 2347577,2E0FQE,Drew,Drew,Bideford,England,GBR
 2347578,M7DLX,Liam Austin,Liam,Canterbury,England,GBR
-2347579,2E0EUD,Brian Clark,Brian,Basildon Essex,England,GBR
+2347579,M0PEE,Brian Clark,Brian,Basildon,England,GBR
 2347580,M0YJG,Geoff,Geoff,Chelmsford,England,GBR
 2347581,M6KXQ,Brianwogden,Brianwogden,Blackburn,England,GBR
 2347582,M1CYT,Steve,Steve,Welwyn Garden City,England,GBR
@@ -7736,7 +7736,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347973,M6HVD,Lyndon Evans,Lyndon,Blackpool,England,GBR
 2347974,2E0KBZ,Irncrosslink,Irncrosslink,Worksop,England,GBR
 2347975,M7SLB,Simon,Simon,Scarborough,No_regio,GBR
-2347976,M1CJX,Tony,Tony,Basingstoke,No_regio,GBR
+2347976,M1CJX,Tony,Tony,Basingstoke,England,GBR
 2347977,M0ZKK,Matt,Matt,Tring,No_regio,GBR
 2347978,2M0HSK,Sam,Sam,,Scotland,GBR
 2347979,M0YTH,Simon,Simon,Manchester,No_regio,GBR
@@ -7929,7 +7929,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348168,M1EOU,Roy,Roy,Sheffield,No_regio,GBR
 2348169,2E0LJR,no_name,no_name,no_city,No_regio,GBR
 2348170,M0JFF,no_name,no_name,no_city,No_regio,GBR
-2348171,G1PJJ,no_name,no_name,Harwich,No_regio,GBR
+2348171,G1PJJ,Shiraz Turvey,Shiraz,Clacton On,England,GBR
 2348172,G7OXK,John,John,Feltham,No_regio,GBR
 2348173,M7ROT,no_name,no_name,no_city,No_regio,GBR
 2348174,M6TUC,Geoff,Geoff,Bradford,No_regio,GBR
@@ -8869,7 +8869,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2349128,M7MNE,Edgars,Edgars,Somercotes,No_regio,GBR
 2349129,G4PYR,Robert,Robert,Peterborough,No_regio,GBR
 2349130,M6HBH,Brandon,Brandon,Sheffield,No_regio,GBR
-2349131,G0BCU,Davidcharnock,Davidcharnock,Warrington,No_regio,GBR
+2349131,G0BCU,David,David,Warrington,England,GBR
 2349132,M0RIQ,Richard,Richard,Ilkley,England,GBR
 2349133,2E0IPR,no_name,no_name,Beverley,England,GBR
 2349134,G7PFN,Dean,Dean,St Neots,No_regio,GBR
@@ -9113,7 +9113,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2349374,M0IRB,Sam,Sam,Thirsk,England,GBR
 2349375,G4FSU,Ian,Ian,Wells,England,GBR
 2349376,2E0XOH,Vince,Vince,no_city,No_regio,GBR
-2349377,2E0JIT,Daniel,Daniel,Maidstone,No_regio,GBR
+2349377,M0XDH,Daniel,Daniel,Maidstone,England,GBR
 2349378,M7DEB,Bowie,Bowie,Ipswich,No_regio,GBR
 2349379,M7CEM,Colin,Colin,York,No_regio,GBR
 2349380,M6DQB,Antonio,Antonio,Scarborough,North Yorkshire,GBR
@@ -9414,7 +9414,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2349680,M0LAT,Andrew Laity,Andrew,Cambridge,England,GBR
 2349681,M6NOG,Rob Nicol,Rob,Ibstock,England,GBR
 2349682,M6OGQ,Peter Kelly,Peter,Maidstone,England,GBR
-2349683,M7CHX,Marik Angela,Marik,Sutton-In-Ashfield,England,GBR
+2349683,M7CHX,Marik Angela,Marik,Kirkby In Ashfield,England,GBR
 2349684,G0RRC,Roy Smith,Roy,Ipswich,England,GBR
 2349685,M0CET,Andrew,Andrew,Aylesbury,England,GBR
 2349686,GM6WEI,Malcolm Cockcroft,Malcolm,,Scotland,GBR
@@ -9625,7 +9625,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2349903,MW7BRQ,Jeff Mann,Jeff,Port Talbot,Wales,GBR
 2349905,G4BUH,Michael Banahan,Michael,Ely,England,GBR
 2349906,M5ASF,Alistair Fairweather,Alistair,Malvern,England,GBR
-2349907,MW7CIE,Mostyn Thomas,Mostyn,Cwmbran,Wales,GBR
+2349907,2W0KGH,Mostyn Thomas,Mostyn,Cwmbran,Wales,GBR
 2349908,MM0UIO,Andy Knox,Andy,Largs,Scotland,GBR
 2349909,G7FRR,Midel Samson,Midel,London,England,GBR
 2349910,MX0HFC,Humber Club,Humber,Patrington,England,GBR
@@ -10149,7 +10149,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2350440,MM0WCD,Colin Docherty,Colin,Haddington,Scotland,GBR
 2350441,G0TOB,John Horsfall,John,Hebden Bridge,England,GBR
 2350442,2E0RLP,Lee Paston,Lee,St  Agnes,England,GBR
-2350443,G1HEA,Andrew Steele,Andrew,Keighley,England,GBR
+2350443,G1HEA,Andrew Steele,Andrew,Tiverton Devon,England,GBR
 2350444,M6MQP,Richard Marlow,Richard,Nottingham,England,GBR
 2350445,M7TKB,Thomas Bishop,Thomas,Folkestone,England,GBR
 2350446,2E0HGP,Gary Hawes,Gary,Morpeth,England,GBR
@@ -10620,7 +10620,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2350918,M0JJF,Kim Hiscock,Kim,Reading,England,GBR
 2350919,M7MBN,Mark Brown,Mark,Chorley,England,GBR
 2350920,G7DWY,Ian Barraclough,Ian,Halifax,England,GBR
-2350921,MW7DUI,Martin Bennewith,Martin,Deeside,Wales,GBR
+2350921,2W0WME,Martin Bennewith,Martin,Deeside,Wales,GBR
 2350922,2E0OGB,Rich,Rich,Coventry,England,GBR
 2350923,MI7DFV,Brian Webb,Brian,Armagh,Northern Ireland,GBR
 2350924,M6GSY,Nick Blampied,Nick,Forres,Scotland,GBR
@@ -11397,7 +11397,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2351708,M0SAY,David Sayles,David,Sheffield,England,GBR
 2351709,G8TIC,Mike Tubby,Mike,Worcester,England,GBR
 2351710,G7TXU,Tony Ling,Tony,Brighton,England,GBR
-2351711,G8TPX,John Bates,John,Ickenham,England,GBR
+2351711,G8TPX,John,John,Ickenham,England,GBR
 2351712,G7DKY,Graham Rowntree,Graham,Euxton,England,GBR
 2351713,2E1GUA,James Beatwell,James,Writtle,England,GBR
 2351715,G4ENS,Alan Morris,Alan,Bury St Edmunds,England,GBR
@@ -11441,7 +11441,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2351753,G7JUR,Philip Lock,Philip,Farnham,England,GBR
 2351754,G6ANN,Nev Wain,Nev,Chesterfield,England,GBR
 2351755,2E0LRK,Lee Kelsey,Lee,Manlethorpe,England,GBR
-2351756,G8YMM,Paul Stevenson,Paul,Bristol,England,GBR
+2351756,G8YMM,Paul,Paul,Bristol,England,GBR
 2351757,G3VEH,Chris Morcom,Chris,Millbrook Torpoint,England,GBR
 2351758,G8CME,Louise Crawshaw,Louise,Nelson,England,GBR
 2351759,M3GKX,James Boot,James,Wolverhampton,England,GBR
@@ -12105,7 +12105,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2352427,G0IFL,Rob Finch,Rob,Thetford,England,GBR
 2352428,G6VKG,Tony Pilgrim,Tony,Rotherham,England,GBR
 2352429,G7PLS,Nick Partridge,Nick,Immingham,England,GBR
-2352430,M0MIB,Vaughan,Vaughan,Nottingham,,GBR
+2352430,M0MIB,Vaughan,Vaughan,Nottingham,England,GBR
 2352431,M6ZCC,Chris Chappell,Chris,Stockport,England,GBR
 2352432,G8KVP,John Parkins,John,Taunton,England,GBR
 2352433,2E1KAJ,Keith Johnson,Keith,New Romney,England,GBR
@@ -12119,7 +12119,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2352441,M0BXF,Peter Pickup,Peter,Clitheroe Lancashire,England,GBR
 2352442,G8ITJ,Mike Admans,Mike,Nuneaton,England,GBR
 2352443,G0UZL,Chris Clease,Chris,Blandford Forum,England,GBR
-2352445,2E0IOG,Darren Mathewson,Darren,Wirral,No_regio,GBR
+2352445,2E0IOG,Darren Mathewson,Darren,Preston Lancashire,England,GBR
 2352446,M6LDD,Edwin Daniels,Edwin,Titchfield,England,GBR
 2352447,G0ATV,Alex Willis,Alex,Kettering,England,GBR
 2352448,M6BOK,Vic Casambros,Vic,London,England,GBR
@@ -13290,7 +13290,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2353641,MW7JDG,Jeremy,Jeremy,Pontypool,No_regio,GBR
 2353642,GW1DPL,Martyn Beer,Martyn,Waunariwydd Swansea West Glamorg,Wales,GBR
 2353643,MW7WAP,Ceri,Ceri,Pontypridd,No_regio,GBR
-2353644,M0VCK,Paul Hillier,Paul,Newport,Wales,GBR
+2353644,MW0VCK,Paul,Paul,Newport,Wales,GBR
 2353645,GW0WZL,John,John,Caernarfon,No_regio,GBR
 2353646,MW6PQQ,Carl Kibblewhite,Carl,Llanerchymedd,No_regio,GBR
 2353647,2W1MRK,Mark Morgan,Mark,Caerphilly,Wales,GBR
@@ -13657,7 +13657,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2354012,MM0DUN,Martin Higgins,Martin,Dundee,Scotland,GBR
 2354013,MM0DUN,Martin Higgins,Martin,Dundee,Scotland,GBR
 2354014,MM0YEQ,Gordon Pearce,Gordon,Glasgow,Scotland,GBR
-2354015,GM6MUZ,Charlie Duncan,Charlie,Edinburgh,Scotland,GBR
+2354015,GM6MUZ,Charlie,Charlie,Edinburgh,Scotland,GBR
 2354016,GM4TNP,James Burke,James,Glenrothes,Scotland,GBR
 2354017,GM7GKT,Bob Smith,Bob,Glenrothes,Scotland,GBR
 2354018,MM3OYB,Susan Morgan,Susan,Glenrothes,Scotland,GBR
@@ -13944,13 +13944,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2354308,GM8SAU,Barry Titmarsh,Barry,Isle Of North Uist,Scotland,GBR
 2354309,MM6IYA,David,David,Clydebank,Scotland,GBR
 2354310,M7MCP,Mark Mcdaniel,Mark,Nottingham,England,GBR
-2354311,GM3RUI,Roy Furness,Roy,Leven Fife,Scotland,GBR
+2354311,GM3RUI,Roy,Roy,Leven Fife,Scotland,GBR
 2354312,2M0IPO,Paddy Hara,Paddy,Glasgow,Scotland,GBR
 2354313,2M0EGH,Tommy Gallagher,Tommy,Edinburgh,Scotland,GBR
 2354314,MM0BTD,John Ganson,John,Newport On Tay,Scotland,GBR
 2354315,MM1TLD,Thomas Daisley,Thomas,Clydebank,Scotland,GBR
 2354316,MM6VGS,Raymond Adams,Raymond,Glasgow,Scotland,GBR
-2354317,2M0MQN,Mike Quin,Mike,Menstrie,Scotland,GBR
+2354317,MM0MQN,Mike Quin,Mike,Menstrie,Scotland,GBR
 2354318,MM0ZUN,Kenny Duffus,Kenny,Glasgow,Scotland,GBR
 2354319,GM8LKL,Alan Hogg,Alan,Currie,Scotland,GBR
 2354320,GM8NZL,Elizabeth Hogg,Elizabeth,Currie,Scotland,GBR
@@ -14155,7 +14155,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2354520,GM0EDJ,Paul Temple,Paul,Johnstone,Scotland,GBR
 2354521,GM7LSI,Johnny Stuart,Johnny,Elgin,Scotland,GBR
 2354522,2M0PIJ,Gordon Wilson,Gordon,Clydebank,Scotland,GBR
-2354523,MM0XET,Garry Bertie,Garry,Dundee,No_regio,GBR
+2354523,MM0XET,Garry,Garry,Dundee,Scotland,GBR
 2354524,MM6HLV,Charlie,Charlie,Perth,No_regio,GBR
 2354525,MM6AEB,Kevin Hay,Kevin,Dumfriesshire,No_regio,GBR
 2354526,GM1XEA,Peter Thomson,Peter,Westhill,No_regio,GBR
@@ -14953,7 +14953,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2355347,MI6KUB,Damian Walsh,Damian,Newry,Northern Ireland,GBR
 2355348,MI6KXY,Robbie Woodcock,Robbie,Kilkeel,Northern Ireland,GBR
 2355349,2I0GPM,Andrew Kirkpatrick,Andrew,Millisle,Northern Ireland,GBR
-2355350,MI3DNK,Michael Patton,Michael,Coleraine,Northern Ireland,GBR
+2355350,MI3DNK,Mike Patton,Mike,Coleraine,Northern Ireland,GBR
 2355351,GI0SRM,John Mcpeake,John,Ballymena,Northern Ireland,GBR
 2355352,MN0GFE,Ad Ars,Ad,Antrim,Northern Ireland,GBR
 2355353,MI6KKU,Sam Mccourt,Sam,Lisburn,Northern Ireland,GBR
@@ -15218,7 +15218,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2355612,M7DOX,Andrew Pinder,Andrew,Bradford,England,GBR
 2355613,G4IOA,Pete Null,Pete,England  France,England,GBR
 2355614,M6JTT,Josie Owen,Josie,Essex,England,GBR
-2355615,G4MQQ,Simon Jones,Simon,Lapford,,GBR
+2355615,G4MQQ,Simon Jones,Simon,Lapford,England,GBR
 2355616,M7YYZ,Nik Williams,Nik,Camborne,England,GBR
 2355617,MI7MSX,Marco Silva,Marco,Belfast,Northern Ireland,GBR
 2355618,G8RKC,Raymond Bowring,Raymond,Walsall,England,GBR
@@ -16004,7 +16004,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2356406,2E0BAF,Debbie Davies,Debbie,Nottingham,England,GBR
 2356407,G7PZT,John Keen,John,Blackburn,England,GBR
 2356408,M7POF,Steven Carmichael,Steven,Durham,England,GBR
-2356409,M7FMK,Jack,Jack,Southend On Sean,England,GBR
+2356409,M7FMK,Jack,Jack,Southend On,England,GBR
 2356410,2E0VPF,Steve,Steve,County Of Staffordshire,England,GBR
 2356411,2E0WXF,Mark Morton,Mark,London,England,GBR
 2356412,M7FCI,Jay Bhonsle,Jay,Reading,England,GBR
@@ -16346,7 +16346,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2356752,M7HIA,Damian Perrin,Damian,Solihull,England,GBR
 2356753,M3ZJZ,Michael Shaw,Michael,Epsom,England,GBR
 2356754,G4IJI,Michael Walker,Michael,Leeds,England,GBR
-2356755,M7RWG,Richard Green,Richard,Catford,England,GBR
+2356755,2E0JZE,Richard Green,Richard,Catford,England,GBR
 2356756,M0URF,Andrew Smurf,Andrew Smurf,Cheltenham,England,GBR
 2356757,MB7INP,Luke Thomas,Luke,Letterston,Wales,GBR
 2356758,M0OOV,Alex Lalu,Alex,London,England,GBR
@@ -16648,7 +16648,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357056,G5FAB,Jt Repeaters Jt Repeaters,Jt Repeaters,Leighton Buzzard,England,GBR
 2357057,G1CVZ,Jt Repeaters Jt Repeaters,Jt Repeaters,Leighton Buzzard,England,GBR
 2357058,M7XOT,Lee Starkey,Lee,Broadstairs,England,GBR
-2357059,GM0HSC,Hugh Cumming,Hugh,Bo Ness,,GBR
+2357059,GM0HSC,Hugh Cumming,Hugh,Bo Ness,Scotland,GBR
 2357060,G7FMX,Tommy,Tommy,Liverpool,,GBR
 2357061,MI7FPG,Mark Mccarron,Mark,Derry,Northern Ireland,GBR
 2357062,M7GVU,Anthony Miley,Anthony,Brixham,England,GBR
@@ -16811,7 +16811,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357220,M0KDB,Mel Gordon,Mel,Blackpool,England,GBR
 2357221,M0KVD,Firmino Matos,Firmino,Southampton,England,GBR
 2357222,G5TEO,Teodor Orzechowski,Teodor,Northampton,England,GBR
-2357223,M7VGU,Gavin Kelman,Gavin,Cambridge,England,GBR
+2357223,2E0VGU,Gavin Kelman,Gavin,Cambridge,England,GBR
 2357224,M0BOC,Tommy Tomlinson,Tommy,Bolton,England,GBR
 2357225,M7OBV,Carl,Carl,Sleaford,England,GBR
 2357226,G4WBI,Steven Haydon,Steven,Oxfordshire,England,GBR
@@ -16947,7 +16947,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357356,M7IKW,Ian Willett,Ian,East Tilbury,England,GBR
 2357357,G7CBW,Stephen Duffield,Stephen,Tipton,England,GBR
 2357358,M7KVC,Tracy Land,Tracy,Stockport,England,GBR
-2357359,M7YVW,Colin Poole,Colin,London,England,GBR
+2357359,M7YVW,Colin,Colin,London,England,GBR
 2357360,MW7KDA,Kelvin Smith,Kelvin,Wrexham,Wales,GBR
 2357361,M7FID,Graeme Orrow,Graeme,Bedford,England,GBR
 2357362,M7OXP,Craig Matthews,Craig,Milton Keynes,England,GBR
@@ -16956,7 +16956,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357365,M7FYQ,Nick Bostock,Nick,Nottingham,England,GBR
 2357366,2E0VGC,David Carter,David,Wareham Dorset,England,GBR
 2357367,2E0FYS,Steve Smith,Steve,Manchester,England,GBR
-2357368,2W0NPZ,Nigel Harry,Nigel,Llanelli,Wales,GBR
+2357368,MW0NPZ,Nigel Harry,Nigel,Llanelli,Wales,GBR
 2357369,MM7LBN,Witold Parchimowicz,Witold,Aberdeen,Scotland,GBR
 2357370,MU7GUF,Mark Brehaut,Mark,Guernsey,Channel Isles,GBR
 2357371,M7GVK,Jonathan Pyman,Jonathan,Colchester,England,GBR
@@ -17222,7 +17222,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357631,M7YRF,Robert Wegg,Robert,Hull,England,GBR
 2357632,M7YJM,James,James,Littlehampton,England,GBR
 2357633,M7PIF,James Fortune,James,Derby,England,GBR
-2357634,M7FLV,Paul Hollyer,Paul,Bury St Edmunds,England,GBR
+2357634,2E1FLV,Paul Hollyer,Paul,Bury St Edmunds,England,GBR
 2357635,2E0SBL,Steven York,Steven,Tattershall Bridge Lincoln,England,GBR
 2357636,MW7RTY,Matthew Hayden,Matthew,Bridgend,Wales,GBR
 2357637,2W0VVW,John Lee,John,Conwy,Wales,GBR
@@ -17460,7 +17460,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357869,ME7FBG,Andrew Williams,Andrew,Willenhall,England,GBR
 2357870,MW1AAH,Dorian Creber,Dorian,Swansea,Wales,GBR
 2357871,MB6IB,Scott Stretton,Scott,Worksop,England,GBR
-2357872,M7WKD,Alistair Brown,Alistair,Eastleigh,England,GBR
+2357872,2E0KFE,Alistair Brown,Alistair,Eastleigh,England,GBR
 2357873,MW6RLJ,Christopher Rees,Christopher,Aberdare,Wales,GBR
 2357874,M3YUA,Mike Boyd,Mike,Winsford,England,GBR
 2357875,2E0UVK,Steve Roberts,Steve,Stunts Green,England,GBR
@@ -17485,7 +17485,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357894,M7HHX,Mike Cattell,Mike,Basingstoke,England,GBR
 2357895,M0YDY,Derby Raynet,Derby Raynet,Derby,England,GBR
 2357896,GW0RAD,John Lewis,John,Ammanford,Wales,GBR
-2357897,M7TKN,Ian Atkin,Ian,Warrington,England,GBR
+2357897,2E1IAN,Ian Atkin,Ian,Warrington,England,GBR
 2357898,M7LHP,Darren Parr,Darren,Barnsley,England,GBR
 2357899,MM7IGU,Gary Grant,Gary,None,Scotland,GBR
 2357900,M7PZE,Jose Assuncao,Jose,St Neots,England,GBR
@@ -17550,14 +17550,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2357959,G1BTN,Ian Evans,Ian,Lostock Hall Preston,England,GBR
 2357960,M0JLB,Jamie Laundon,Jamie,Woking,England,GBR
 2357961,GW8HWS,Jms Mills,Jms,Cardiff,Wales,GBR
-2357962,M7IIV,Ian Henry,Ian,Cambridge,England,GBR
-2357963,M7IJJ,David Kent,David,Warrington,England,GBR
+2357962,2E0KGZ,Ian Henry,Ian,Cambridge,England,GBR
+2357963,2E0KGU,David Kent,David,Warrington,England,GBR
 2357964,M7IIY,Chris Donnelly,Chris,Edinburgh,Scotland,GBR
 2357965,M7IJQ,Jerome Read,Jerome,Bewdley,England,GBR
 2357966,GM0MZB,William,William,Stirling,Scotland,GBR
 2357967,GM0MZB,William,William,Stirling,Scotland,GBR
 2357968,G1PML,Colin Roberts,Colin,Grantham,England,GBR
-2357969,MI7NTC,Neil Curran,Neil,Aughnacloy,Northern Ireland,GBR
+2357969,MI1NTC,Neil Curran,Neil,Aughnacloy,Northern Ireland,GBR
 2357970,M7AUO,Douglas Tonks,Douglas,Telford,England,GBR
 2357971,M7VMO,Matthew Jackson,Matthew,Bradford,England,GBR
 2357972,G8EYM,Norman Kearey,Norman,Crowthorne,England,GBR
@@ -17602,6 +17602,76 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2358011,MM0PJQ,Patrick Quinn,Patrick,Paisley,Scotland,GBR
 2358012,M7CPG,David Cooper,David,Bolsover Chesterfield,England,GBR
 2358013,2E1EHY,Nigel Waters,Nigel,Kent,England,GBR
+2358014,GW8IKH,Robert Rolley,Robert,Llangynidr Crickhowell,Wales,GBR
+2358015,G6KHU,Keith Gambles,Keith,None,England,GBR
+2358016,M5ADF,David Hook,David,Nottinghamshire,England,GBR
+2358017,MI7USM,Stephen,Stephen,,Northern Ireland,GBR
+2358018,MM3TAM,Tam Clydebank,Tam,Duntocher,Scotland,GBR
+2358019,2E0IER,Brian Brooks,Brian,Doncaster,England,GBR
+2358020,2M0KDQ,Mike,Mike,Turriff,Scotland,GBR
+2358021,M6JQQ,Connor Murphy,Connor,Burgess Hill,England,GBR
+2358022,M7SLE,Steve Griffin,Steve,Hartlepool,England,GBR
+2358023,MM7PYP,Ewan Robertson,Ewan,Livingston,Scotland,GBR
+2358024,M1AEV,Antony Aiello,Antony,Peterborough,England,GBR
+2358025,M7IMB,Colin Bunch,Colin,Basildon,England,GBR
+2358026,2E0WRE,Richard Wenham,Richard,Northampton,England,GBR
+2358027,G7IOY,Ashley Powell,Ashley,Washington,England,GBR
+2358028,M7IKX,Gerard Beehan,Gerard,Broadstairs,England,GBR
+2358029,2E0RVG,Roger Pugh,Roger,Crawley,England,GBR
+2358030,M7RXL,Rals,Rals,,England,GBR
+2358031,M7KUI,Cheng,,Loughborough,England,GBR
+2358032,M3NHS,Nick Smith,Nick,Romford Essex,England,GBR
+2358033,M7INB,Graham Lindley,Graham,Doncaster,England,GBR
+2358034,M0TSI,Stefano Testi,Stefano,London,England,GBR
+2358035,M0MOH,Uk Motor Home Group,Uk Motor Home Group,Lancaster,England,GBR
+2358036,MM3IOB,David Mccallum,David,None,Scotland,GBR
+2358037,MW7AUU,Martin Waller,Martin,Newbourgh,Wales,GBR
+2358038,G8SMR,Smrcc South,Smrcc,Stretford,England,GBR
+2358039,M7IER,Raymond Lofting,Raymond,Guildford,England,GBR
+2358040,M0XMZ,David Boocock,David,Leicester,England,GBR
+2358041,G1AQV,John Blackman,John,Penrith,England,GBR
+2358042,G1CAE,Paul,Paul,None,England,GBR
+2358043,G1LWX,Mike Berry,Mike,Lancashire,England,GBR
+2358044,2E0ERF,Garry Sheppard,Garry,Hailsham,England,GBR
+2358045,G1YBQ,Paul,Paul,,England,GBR
+2358046,G8JSS,Dennis Mobbs,Dennis,Bude,England,GBR
+2358047,M6EXE,Chris Rose,Chris,Bedfordshire,England,GBR
+2358048,G8AJZ,Boardall,,Bury,England,GBR
+2358049,M7FJR,Alan Brown,Alan,Tiverton,England,GBR
+2358050,M1EXP,Tim Mccarthy,Tim,Malinslee Telford Shropshire,England,GBR
+2358051,M7XFJ,Vytautas Makarovas,Vytautas,London,England,GBR
+2358052,2E0EES,Stephen Rattley,Stephen,Wiltshire,England,GBR
+2358053,M7NOJ,Jon Bonsor Matthews,Jon,Cambridge,England,GBR
+2358054,2E0PHG,Seb,Seb,Dorset,England,GBR
+2358055,MW6SEP,Darren Jones,Darren,Caerphilly,Wales,GBR
+2358056,MM7IFL,Jacob Wagstaff,Jacob,Wick,Scotland,GBR
+2358057,M7IFW,Daniel James,Daniel,Harrogate,England,GBR
+2358058,MM0KMQ,Iain Morrison,Iain,Stornoway,Scotland,GBR
+2358059,G8AVK,Bob Kimberley,Bob,Worle Weston Super Mare North Somerset,England,GBR
+2358060,2E0HGK,Andrew Dykes,Andrew,Nantwich,England,GBR
+2358061,M7TPV,Stephen Holt,Stephen,,Wales,GBR
+2358062,G4NLY,Mckay,,Heanor,England,GBR
+2358063,GM4RMK,Raymond,Raymond,Oban,Scotland,GBR
+2358064,M0SIX,Angel,Angel,Nottinghamshire,England,GBR
+2358065,M7VJL,Jonathan Lockton,Jonathan,Peterborough,England,GBR
+2358066,M7EYL,James Cranston,James,Guildford,England,GBR
+2358067,G6IMT,Stuart Rook,Stuart,Colchester,England,GBR
+2358068,M7MYW,Bela Szaloczi,Bela,Sutton,England,GBR
+2358069,G0MVT,Brindley,,Bignall End Stoke On Trent,England,GBR
+2358070,2I0WNC,Thomas Marshall,Thomas,Larne,Northern Ireland,GBR
+2358071,MM7SST,Seamus Somerville,Seamus,Edinburgh,Scotland,GBR
+2358072,M7VDS,Darren,Darren,None,England,GBR
+2358073,M7RPO,Robert Coulson,Robert,Stafford,England,GBR
+2358074,MM7MOX,Andy Black,Andy,Edinburgh,Scotland,GBR
+2358075,M7SZS,Sheryl,Sheryl,None,England,GBR
+2358076,M7OPZ,Steve,Steve,Bristol,England,GBR
+2358077,MW0TDQ,Jerzy Grzywaczewski,Jerzy,South Wales  Port Talbot,Wales,GBR
+2358078,G1GBO,Howard Keene,Howard,Nottingham,England,GBR
+2358079,ME7NAB,Martin Bradbury,Martin,Ipswich,England,GBR
+2358080,M7OZS,Lewis Cussell,Lewis,Stroud,England,GBR
+2358081,M0HGK,Mark Andrew,Mark,Ashington Sussex,England,GBR
+2358082,G6APW,Trevor Harvey,Trevor,Dover Kent,England,GBR
+2358083,M7MOW,Mark Mower,Mark,West Drayton,England,GBR
 2360000,M0NOA,Anthony De Broise,Anthony,Leeds,England,GBR
 2360001,M1HAC,Alex,Alex,Southampton,England,GBR
 2360002,M1HAC,Alex,Alex,Southampton,England,GBR
